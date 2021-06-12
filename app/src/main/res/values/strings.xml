@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">TGDD</string>
+    <string name="phone_number">Số Điện Thoại</string>
+    <string name="name">Họ Tên</string>
+    <string name="address">Đại Chỉ</string>
+    <string name="pass_word">Mật khẩu</string>
+    <string name="repass_word">Nhập lại mật khẩu</string>
+    <string name="login_bnt">ĐĂNG NHẬP</string>
+    <string name="sign_bnt"> ĐĂNG KÍ</string>
+    <string name="sign_question">Chưa có tài khoản? </string>
+    <string name="login_question">Đã có tài khoản? </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trang chủ</string>
+
+    <string name="menu_shop">Cửa hàng</string>
+    <string name="detail">Chi tiết</string>
+
+    <string name="menu_account">Tài khoản</string>
+
+    <string name="menu_build">Hóa đơn của tôi</string>
+
+    <string name="menu_cart">Giỏ hàng</string>
+
+    <string name="menu_logout">Đăng xuất</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smart_phone">Điện Thoại</string>
+    <string name="search">Tìm Kiếm</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="add_to_cart">THÊM VÀO GIỎ HÀNG</string>
+    <string name="pay">THANH TOÁN</string>
+
+    <!-- Detail Product-->
+    <string name="brand_product">Hãng: </string>
+    <string name="display">Màn: </string>
+    <string name="os">HĐH: </string>
+    <string name="front_camera">Camera trước: </string>
+    <string name="behind_camera">Camera sau: </string>
+    <string name="cpu">Chip: </string>
+    <string name="ram">Ram: </string>
+    <string name="rom">Rom: </string>
+    <string name="sim">Sim: </string>
+    <string name="pin">Pin: </string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="total">Tổng: </string>
+    <string name="account_phone_number">Số điện thoại: </string>
+    <string name="account_name">Tên: </string>
+    <string name="account_address">Địa chỉ: </string>
+    <string name="edit_info_bnt">SỬA THÔNG TIN CÁ NHÂN</string>
+    <string name="edit_password_bnt">ĐỔI MẬT KHẨU</string>
+
+    <string name="yes_btn">ĐỒNG Ý</string>
+    <string name="no_btn">HỦY </string>
+
+</resources>
